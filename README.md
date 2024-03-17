@@ -1,7 +1,7 @@
 # codsoft_-1
 **ToDo List Application**
 
-##Description:
+## Description:
 The ToDo list application is a Python-based task management tool designed to streamline your daily activities. With its intuitive command-line interface, it empowers users to organize, update, and track tasks effortlessly.
 
 ##Key Features:
